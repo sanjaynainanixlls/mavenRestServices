@@ -1,0 +1,6 @@
+com\maven\config\HelloWorldConfiguration.class
+com\maven\controller\HelloWorldRestController.class
+com\maven\model\User.class
+com\maven\service\UserServiceImpl.class
+com\maven\config\HelloWorldInitializer.class
+com\maven\service\UserService.class
